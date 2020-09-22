@@ -1,7 +1,7 @@
 # Simple-Monoalphabetic-Substitution-Cipher
 A simple console-based monoalphabetic substitution cipher made with C++
 
-# IMPORTANT
+## IMPORTANT
 THIS PROGRAM IS WRITTEN IN C++ (C++11 recommended)
 
 THIS README DEMONSTRATES THE EXECUTION OF THIS PROGRAM ON A LINUX TERMINAL WITH A C++ COMPILER
