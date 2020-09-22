@@ -26,7 +26,7 @@ Enter the following command into the terminal to compile the program along with 
 
 Enter the following command into the terminal to execute the program:
 
-**./Task2.out**
+**./monoCipher.out**
 
 ## CLEAN
 
